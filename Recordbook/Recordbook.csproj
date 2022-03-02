@@ -1,0 +1,335 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4C8A5246-F259-418B-904D-607ACB5199E9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Recordbook</RootNamespace>
+    <AssemblyName>Recordbook</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>record.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Recordbook.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>D:\CrystalDecisions.CrystalReports.Engine.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>D:\\CrystalDecisions.ReportSource.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>D:\\CrystalDecisions.Shared.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.VSDesigner, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>D:\CrystalDecisions.VSDesigner.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Management.Instrumentation" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="conn\Mssqlconnect.cs" />
+    <Compile Include="form\frmRptDateInvoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\frmRptDateInvoice.Designer.cs">
+      <DependentUpon>frmRptDateInvoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\frmRptInavoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\frmRptInavoice.Designer.cs">
+      <DependentUpon>frmRptInavoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\frmRptTransaction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\frmRptTransaction.Designer.cs">
+      <DependentUpon>frmRptTransaction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\frmRptRecordDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\frmRptRecordDetails.Designer.cs">
+      <DependentUpon>frmRptRecordDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\frmrptWholeSearching.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\frmrptWholeSearching.Designer.cs">
+      <DependentUpon>frmrptWholeSearching.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\frmTransactionReturn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\frmTransactionReturn.designer.cs">
+      <DependentUpon>frmTransactionReturn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\Find.cs" />
+    <Compile Include="form\frmtransaction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\frmtransaction.designer.cs">
+      <DependentUpon>frmtransaction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\frmfileEntry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\frmfileEntry.designer.cs">
+      <DependentUpon>frmfileEntry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\frmNewMaintainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\frmNewMaintainer.Designer.cs">
+      <DependentUpon>frmNewMaintainer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\frmmenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\frmmenu.designer.cs">
+      <DependentUpon>frmmenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\frm_user_information.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\frm_user_information.designer.cs">
+      <DependentUpon>frm_user_information.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmchangepassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmchangepassword.Designer.cs">
+      <DependentUpon>frmchangepassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Extra\call.cs" />
+    <Compile Include="frmlogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmlogin.Designer.cs">
+      <DependentUpon>frmlogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmsplash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmsplash.Designer.cs">
+      <DependentUpon>frmsplash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\frmNewPosition.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\frmNewPosition.Designer.cs">
+      <DependentUpon>frmNewPosition.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\frmSearching.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\frmSearching.Designer.cs">
+      <DependentUpon>frmSearching.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\frmBuyerName.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\frmBuyerName.Designer.cs">
+      <DependentUpon>frmBuyerName.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\frmNewFileType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\frmNewFileType.Designer.cs">
+      <DependentUpon>frmNewFileType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\frmNewVolume.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\frmNewVolume.Designer.cs">
+      <DependentUpon>frmNewVolume.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Report\ReportViwer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\ReportViwer.Designer.cs">
+      <DependentUpon>ReportViwer.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="form\frmRptDateInvoice.resx">
+      <DependentUpon>frmRptDateInvoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\frmRptInavoice.resx">
+      <DependentUpon>frmRptInavoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\frmRptTransaction.resx">
+      <DependentUpon>frmRptTransaction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\frmRptRecordDetails.resx">
+      <DependentUpon>frmRptRecordDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\frmrptWholeSearching.resx">
+      <DependentUpon>frmrptWholeSearching.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\frmTransactionReturn.resx">
+      <DependentUpon>frmTransactionReturn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\frmtransaction.resx">
+      <DependentUpon>frmtransaction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\frmfileEntry.resx">
+      <DependentUpon>frmfileEntry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\frmNewMaintainer.resx">
+      <DependentUpon>frmNewMaintainer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\frmmenu.resx">
+      <DependentUpon>frmmenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\frm_user_information.resx">
+      <DependentUpon>frm_user_information.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmchangepassword.resx">
+      <DependentUpon>frmchangepassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\frmBuyerName.resx">
+      <DependentUpon>frmBuyerName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\frmNewFileType.resx">
+      <DependentUpon>frmNewFileType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\frmNewPosition.resx">
+      <DependentUpon>frmNewPosition.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\frmNewVolume.resx">
+      <DependentUpon>frmNewVolume.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\frmSearching.resx">
+      <DependentUpon>frmSearching.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmlogin.resx">
+      <DependentUpon>frmlogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmsplash.resx">
+      <DependentUpon>frmsplash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Report\ReportViwer.resx">
+      <DependentUpon>ReportViwer.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capture2.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="record.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

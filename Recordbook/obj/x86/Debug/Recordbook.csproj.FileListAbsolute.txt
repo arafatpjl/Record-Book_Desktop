@@ -1,0 +1,103 @@
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Recordbook\Recordbook\bin\Debug\Recordbook.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Recordbook\Recordbook\bin\Debug\Recordbook.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Recordbook\Recordbook\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Recordbook\Recordbook\obj\x86\Debug\Recordbook.frmchangepassword.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmBuyerName.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmNewFileType.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmNewPosition.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmNewVolume.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmSearching.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Recordbook\Recordbook\obj\x86\Debug\Recordbook.frmlogin.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Recordbook\Recordbook\obj\x86\Debug\Recordbook.frmsplash.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Recordbook\Recordbook\obj\x86\Debug\Recordbook.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Recordbook\Recordbook\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Recordbook\Recordbook\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Recordbook\Recordbook\obj\x86\Debug\Recordbook.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Recordbook\Recordbook\obj\x86\Debug\Recordbook.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmmenu.resources
+C:\Users\SOFT07-PC\Documents\Visual Studio 2010\Projects\Recordbook\Recordbook\obj\x86\Debug\Recordbook.exe
+C:\Users\SOFT07-PC\Documents\Visual Studio 2010\Projects\Recordbook\Recordbook\obj\x86\Debug\Recordbook.pdb
+C:\Users\SOFT07-PC\Documents\Visual Studio 2010\Projects\Recordbook\Recordbook\bin\Debug\Recordbook.exe
+C:\Users\SOFT07-PC\Documents\Visual Studio 2010\Projects\Recordbook\Recordbook\bin\Debug\Recordbook.pdb
+C:\Users\SOFT07-PC\Documents\Visual Studio 2010\Projects\Recordbook\Recordbook\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SOFT07-PC\Documents\Visual Studio 2010\Projects\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmmenu.resources
+C:\Users\SOFT07-PC\Documents\Visual Studio 2010\Projects\Recordbook\Recordbook\obj\x86\Debug\Recordbook.frmchangepassword.resources
+C:\Users\SOFT07-PC\Documents\Visual Studio 2010\Projects\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmBuyerName.resources
+C:\Users\SOFT07-PC\Documents\Visual Studio 2010\Projects\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmNewFileType.resources
+C:\Users\SOFT07-PC\Documents\Visual Studio 2010\Projects\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmNewPosition.resources
+C:\Users\SOFT07-PC\Documents\Visual Studio 2010\Projects\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmNewVolume.resources
+C:\Users\SOFT07-PC\Documents\Visual Studio 2010\Projects\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmSearching.resources
+C:\Users\SOFT07-PC\Documents\Visual Studio 2010\Projects\Recordbook\Recordbook\obj\x86\Debug\Recordbook.frmlogin.resources
+C:\Users\SOFT07-PC\Documents\Visual Studio 2010\Projects\Recordbook\Recordbook\obj\x86\Debug\Recordbook.frmsplash.resources
+C:\Users\SOFT07-PC\Documents\Visual Studio 2010\Projects\Recordbook\Recordbook\obj\x86\Debug\Recordbook.Properties.Resources.resources
+C:\Users\SOFT07-PC\Documents\Visual Studio 2010\Projects\Recordbook\Recordbook\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\SOFT07-PC\Documents\Visual Studio 2010\Projects\Recordbook\Recordbook\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\SOFT07-PC\Documents\Visual Studio 2010\Projects\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmNewMaintainer.resources
+C:\Users\SOFT07-PC\Documents\Visual Studio 2010\Projects\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmfileEntry.resources
+C:\Users\SOFT07-PC\Documents\Visual Studio 2010\Projects\Recordbook\Recordbook\bin\Debug\Recordbook.exe.config
+C:\Users\SOFT07-PC\Documents\Visual Studio 2010\Projects\Recordbook\Recordbook\obj\x86\Debug\Recordbook.Report.ReportViwer.resources
+C:\Users\SOFT07-PC\Documents\Visual Studio 2010\Projects\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmtransaction.resources
+C:\Users\SOFT07-PC\Documents\Visual Studio 2010\Projects\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmTransactionReturn.resources
+C:\Users\SOFT07-PC\Documents\Visual Studio 2010\Projects\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmrptWholeSearching.resources
+C:\Users\SOFT07-PC\Documents\Visual Studio 2010\Projects\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmRptRecordDetails.resources
+C:\Users\SOFT07-PC\Documents\Visual Studio 2010\Projects\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmRptTransaction.resources
+C:\Users\SOFT07-PC\Documents\Visual Studio 2010\Projects\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frm_user_information.resources
+C:\Users\SOFT07-PC\Documents\Visual Studio 2010\Projects\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmRptInavoice.resources
+D:\SOFT\new UP\ssc\Recordbook\Recordbook\bin\Debug\Recordbook.exe.config
+D:\SOFT\new UP\ssc\Recordbook\Recordbook\obj\x86\Debug\Recordbook.exe
+D:\SOFT\new UP\ssc\Recordbook\Recordbook\obj\x86\Debug\Recordbook.pdb
+D:\SOFT\new UP\ssc\Recordbook\Recordbook\bin\Debug\Recordbook.exe
+D:\SOFT\new UP\ssc\Recordbook\Recordbook\bin\Debug\Recordbook.pdb
+D:\SOFT\new UP\ssc\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmRptInavoice.resources
+D:\SOFT\new UP\ssc\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmRptTransaction.resources
+D:\SOFT\new UP\ssc\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmRptRecordDetails.resources
+D:\SOFT\new UP\ssc\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmrptWholeSearching.resources
+D:\SOFT\new UP\ssc\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmTransactionReturn.resources
+D:\SOFT\new UP\ssc\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmtransaction.resources
+D:\SOFT\new UP\ssc\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmfileEntry.resources
+D:\SOFT\new UP\ssc\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmNewMaintainer.resources
+D:\SOFT\new UP\ssc\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmmenu.resources
+D:\SOFT\new UP\ssc\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frm_user_information.resources
+D:\SOFT\new UP\ssc\Recordbook\Recordbook\obj\x86\Debug\Recordbook.frmchangepassword.resources
+D:\SOFT\new UP\ssc\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmBuyerName.resources
+D:\SOFT\new UP\ssc\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmNewFileType.resources
+D:\SOFT\new UP\ssc\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmNewPosition.resources
+D:\SOFT\new UP\ssc\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmNewVolume.resources
+D:\SOFT\new UP\ssc\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmSearching.resources
+D:\SOFT\new UP\ssc\Recordbook\Recordbook\obj\x86\Debug\Recordbook.frmlogin.resources
+D:\SOFT\new UP\ssc\Recordbook\Recordbook\obj\x86\Debug\Recordbook.frmsplash.resources
+D:\SOFT\new UP\ssc\Recordbook\Recordbook\obj\x86\Debug\Recordbook.Properties.Resources.resources
+D:\SOFT\new UP\ssc\Recordbook\Recordbook\obj\x86\Debug\Recordbook.Report.ReportViwer.resources
+E:\Recordbook\Recordbook\bin\Debug\Recordbook.exe.config
+E:\Recordbook\Recordbook\obj\x86\Debug\Recordbook.exe
+E:\Recordbook\Recordbook\obj\x86\Debug\Recordbook.pdb
+E:\Recordbook\Recordbook\bin\Debug\Recordbook.exe
+E:\Recordbook\Recordbook\bin\Debug\Recordbook.pdb
+E:\Recordbook\Recordbook\obj\x86\Debug\Recordbook.csprojResolveAssemblyReference.cache
+E:\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmRptInavoice.resources
+E:\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmRptTransaction.resources
+E:\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmRptRecordDetails.resources
+E:\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmrptWholeSearching.resources
+E:\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmTransactionReturn.resources
+E:\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmtransaction.resources
+E:\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmfileEntry.resources
+E:\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmNewMaintainer.resources
+E:\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmmenu.resources
+E:\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frm_user_information.resources
+E:\Recordbook\Recordbook\obj\x86\Debug\Recordbook.frmchangepassword.resources
+E:\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmBuyerName.resources
+E:\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmNewFileType.resources
+E:\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmNewPosition.resources
+E:\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmNewVolume.resources
+E:\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmSearching.resources
+E:\Recordbook\Recordbook\obj\x86\Debug\Recordbook.frmlogin.resources
+E:\Recordbook\Recordbook\obj\x86\Debug\Recordbook.frmsplash.resources
+E:\Recordbook\Recordbook\obj\x86\Debug\Recordbook.Properties.Resources.resources
+E:\Recordbook\Recordbook\obj\x86\Debug\Recordbook.Report.ReportViwer.resources
+E:\Recordbook\Recordbook\obj\x86\Debug\Recordbook.csproj.GenerateResource.Cache
+E:\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmRptDateInvoice.resources
+D:\SOFT\new UP\ssc\Recordbook\Recordbook\obj\x86\Debug\Recordbook.form.frmRptDateInvoice.resources
+D:\SOFT\new UP\ssc\Recordbook\Recordbook\bin\Debug\CrystalDecisions.VSDesigner.dll
+D:\SOFT\new UP\ssc\Recordbook\Recordbook\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SOFT\new UP\ssc\Recordbook\Recordbook\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\SOFT\new UP\ssc\Recordbook\Recordbook\obj\x86\Debug\GenerateResource.write.1.tlog
